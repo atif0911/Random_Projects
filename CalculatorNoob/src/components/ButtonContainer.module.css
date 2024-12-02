@@ -1,0 +1,13 @@
+.container{
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.button{
+  height: 50px;
+  width: 50px;
+  margin: 5px;
+  background-color: #9DB5B2;
+  color: #DAF0EE;
+}
